@@ -59,3 +59,7 @@ To run this project, follow these steps:
 1. Ensure you have Power BI Desktop installed.
 2. Open the `Prime Video.pbix` file in Power BI Desktop.
 3. Explore the dashboards and visualizations to gain insights into Prime Video's content performance and trends.
+
+## 📸 Screenshots
+Screenshot of the dashboard and visualizations to illustrate key insights and features.
+![Prime Video Dashboard](https://github.com/user-attachments/assets/f1dbc4af-247c-4ba2-b249-8707a2de5a77)
